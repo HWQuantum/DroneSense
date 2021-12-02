@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Attempt_1",
+			"Path": "D:\\Unreal_Projects\\Airsim_Alternate_Test1\\Attempt_1\\Source\\Attempt_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Attempt_1Editor",
+			"Path": "D:\\Unreal_Projects\\Airsim_Alternate_Test1\\Attempt_1\\Source\\Attempt_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

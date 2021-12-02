@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Attempt_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B0EA7ED9-1976-4461-89A7-AFFA5FFBDEB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Attempt_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Attempt_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D5C8CAAB-95C6-42C2-8DD1-170A03D368E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Attempt_1">
+      <UniqueIdentifier>{9D95C574-3D8C-426D-8B73-EBCC9A4E22CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Attempt_1\Attempt_1.Build.cs">
+      <Filter>Source\Attempt_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Attempt_1\Attempt_1.cpp">
+      <Filter>Source\Attempt_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt_1\Attempt_1.h">
+      <Filter>Source\Attempt_1</Filter>
+    </ClInclude>
+    <Filter Include="Source\Attempt_1\Private">
+      <UniqueIdentifier>{4B42BC2D-C5AB-4340-AFA8-7C034C43A0FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Attempt_1\Private\TextFileManager.cpp">
+      <Filter>Source\Attempt_1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Attempt_1\Public">
+      <UniqueIdentifier>{5DDEEDBD-C6A2-4B82-BF19-4688B855A0B5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Attempt_1\Public\TextFileManager.h">
+      <Filter>Source\Attempt_1\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
